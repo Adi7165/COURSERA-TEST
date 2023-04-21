@@ -1,0 +1,46 @@
+ <!DOCKTYPE html>
+ <html>
+ <head>
+      <meta name="viewport" content="with=device-width, initial-
+   scale=1.8">
+   <title> Apnaa scool</title>
+     <link rel="stylesheet" href="style.css">
+       <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:ital@1&display=swap" rel="stylesheet">    
+     </head>
+     <body>
+         <section class="header"> 
+         <nav>
+             <a href="index.html.txt"><img src="Desert.jpg"</a>
+             <div class="nav-links">
+              <ul>
+                 <li><a href="">HOME</a></li>
+                  <li><a href="">ABOUT</a></li>           <li><a href="">BLOG</a></li>           <li><a href="">CONTACT</a></li>     
+                 <li><a href="">FACT</a></li>              
+            
+                  
+                 </ul> 
+                 
+                 </div>
+                 
+             </nav>
+         
+         <div class="text-box">
+             <h1>A friend who will help you the most</h1>
+             <p>This is not a  website it like a good and smart friend<br>will help you in studies and self improvement</p>
+             <a href="">Visit us to know more</a>
+             
+             
+             
+             </div>
+         
+         </section>
+     
+     
+     
+     </body>
+     
+</html>
+   
+      
